@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbC99e4c1b4b2c5c13eC8b8bEC378e8C656596D51",
+  "SCAN_LINK": "https://polygonscan.com/token/0xbc99e4c1b4b2c5c13ec8b8bec378e8c656596d51",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Drea Tickets",
+  "SYMBOL": "DREA",
+  "MAX_SUPPLY": 3757,
+  "WEI_COST": 17000000000000000000,
+  "DISPLAY_COST": 17,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bot-space",
+  "SHOW_BACKGROUND": true
+}
